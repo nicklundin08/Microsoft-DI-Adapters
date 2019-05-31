@@ -1,7 +1,7 @@
 # Microsoft-DI-Adapters
 A library for bridging the gap between the build in .NET di framework and other di frameworks
 
-### Microsoft-DI-Adapters.Ninject
+### MicrosoftDIAdapters.Ninject
 ```C#
 public IServiceProvider ConfigureServices(IServiceCollection services)
 {
