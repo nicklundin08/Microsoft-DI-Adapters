@@ -1,4 +1,4 @@
-﻿namespace Microsoft.Extensions.Adapters.Test.Dependencies
+﻿namespace MicrosoftDIAdapters.Dependencies
 {
     public interface ISingletonDependency
     {

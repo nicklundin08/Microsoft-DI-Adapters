@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.Extensions.DependencyInjection.Adapters.Ninject\Microsoft.Extensions.DependencyInjection.Adapters.Ninject.csproj" />
+    <ProjectReference Include="..\MicrosoftDIAdapters.Ninject\MicrosoftDIAdapters.Ninject.csproj" />
   </ItemGroup>
 
 </Project>

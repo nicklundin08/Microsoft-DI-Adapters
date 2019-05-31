@@ -1,12 +1,12 @@
 ﻿using FluentAssertions;
-using Microsoft.Extensions.Adapters.Ninject;
-using Microsoft.Extensions.Adapters.Test.Dependencies;
 using Microsoft.Extensions.DependencyInjection;
+using MicrosoftDIAdapters.Dependencies;
+using MicrosoftDIAdapters.Ninject;
 using Ninject;
 using System;
 using Xunit;
 
-namespace Microsoft.Extensions.Adapters.Test.Ninject
+namespace MicrosoftDIAdapters.Test.Ninject
 {
     public class NinjectAdapterTests
     {

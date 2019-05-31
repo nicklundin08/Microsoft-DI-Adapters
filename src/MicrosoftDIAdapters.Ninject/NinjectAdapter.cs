@@ -4,7 +4,7 @@ using Ninject;
 using Ninject.Syntax;
 using System;
 
-namespace Microsoft.Extensions.Adapters.Ninject
+namespace MicrosoftDIAdapters.Ninject
 {
     /// <summary>
     /// Applies the scope binding to the syntax

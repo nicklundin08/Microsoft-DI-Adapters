@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System;
 
-namespace Microsoft.Extensions.Adapters.Ninject
+namespace MicrosoftDIAdapters.Ninject
 {
     public class ServiceScope : IServiceScope
     {
